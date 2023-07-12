@@ -1,0 +1,10 @@
+Filetype: IR signals file
+Version: 1
+# 
+# Amerlife Fireplace TV Stand
+#
+name: POWER
+type: parsed
+protocol: NECext
+address: AB CD 00 00
+command: A1 5E 00 00
